@@ -13,6 +13,6 @@ Comment text on the project membership
 
 
 * **Comment:** String
-* **Returns:** String
+* **Returns:** Void
 
 
